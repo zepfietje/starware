@@ -18,5 +18,5 @@ This is done by requiring its users to star the project's GitHub repository.
 
    <!-- TODO: project name --> is Starware.
    This means you're free to use the project, as long as you star its GitHub repository.
-   Your appreciation makes us glow up. ⭐
+   Your appreciation makes us grow and glow up. ⭐
    ```
