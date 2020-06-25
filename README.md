@@ -1,4 +1,4 @@
-[![Starware](https://img.shields.io/badge/Starware-%E2%AD%90-black?labelColor=%23f9b00d)](https://github.com/zepfietje/starware)
+[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
 
 # Starware
 
@@ -9,7 +9,7 @@ This is done by requiring its users to star the project's GitHub repository.
 
 1. Add the Starware badge to the top of your project's README file.
    ```markdown
-   [![Starware](https://img.shields.io/badge/Starware-%E2%AD%90-black?labelColor=%23f9b00d)](https://github.com/zepfietje/starware)
+   [![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
    ```
 2. Add the Starware license section to the bottom of your project's README file.
 
