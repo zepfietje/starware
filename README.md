@@ -1,4 +1,4 @@
-<p align="center"><img src="starware.png" alt="Starware" height="96"></p>
+<p align="center"><img src="starware.png" alt="Starware" height="72"></p>
 
 [![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
 
