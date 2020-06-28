@@ -1,6 +1,6 @@
-[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
+<p align="center"><img src="starware.png" alt="Starware" height="96"></p>
 
-# Starware
+[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
 
 Starware is a type of license that helps promising projects grow and glow up.  
 This is done by requiring its users to star the project's GitHub repository.
