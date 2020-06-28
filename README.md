@@ -1,9 +1,9 @@
 <p align="center"><img src="starware.png" alt="Starware" height="72"></p>
 
-[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
-
-Starware is a type of license that helps promising projects grow and glow up.  
-This is done by requiring its users to star the project's GitHub repository.
+<p align="center">
+  Starware is a type of license that helps promising projects grow and glow up.<br>
+  This is done by requiring its users to star the project's GitHub repository.
+</p>
 
 ## Usage
 
@@ -11,6 +11,7 @@ This is done by requiring its users to star the project's GitHub repository.
    ```markdown
    [![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
    ```
+   [![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
 2. Add the Starware license section to the bottom of your project's README file.
 
    ```markdown
