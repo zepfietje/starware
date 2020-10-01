@@ -26,6 +26,10 @@
 
 Contributing to open source can be daunting at first, let alone creating and maintaining your own open-source projects.
 Running your open-source project doesn't always feel rewarding, even though it does cost a lot of time and effort.
+
 That's where Starware comes into play.
 By requiring users of your project to actively show appreciation by starring the GitHub repository, you're directly praised for the work you've done.
+
 Additionally, it helps promising projects grow, as GitHub stars are the de facto unit of measurement for trending repositories.
+
+Let's make open source even more accessible and fun! ❤️
